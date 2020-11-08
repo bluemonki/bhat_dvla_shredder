@@ -1,0 +1,42 @@
+variable,label
+year,Year
+lac2019,LA Code (2019 boundaries)
+lan2019,LA name (2019 boundaries)
+lsoac,LSOA code
+lsoan,LSOA Name
+cars,Cars
+moto,Motorcycles
+lgv_,Light Goods Vehicles
+hgv_,Heavy Goods Vehicles
+busc,Buses and coaches
+othr,Other vehicles 1
+ltn,Low-traffic neighbourhood (LTN)
+ltna,LTN area subsection
+ltnpc,Percent of relevant LSOA in an LTN (whether this or adjoining)
+ltn_note,Notes on LSOA and LTN boundaries
+pop,pop
+pop18plus,LSOA population 18 years+
+medage,LSOA median age
+lac2020,LA Code (2020 boundaries)
+lan2020,LA name (2020 boundaries)
+id,lsoac
+area,Area Sq Km
+propts,Terraced residential property sales (number)
+propds,Detached residential property sales (number)
+propss,Semi-detached residential property sales (number)
+propfs,Flat or maisonette residential property sales (number)
+propas,Residential property sales (number)
+propmp,Median price paid for residential property (pounds)
+carspc,Cars per population 18 years+
+carspcd5,5-year growth in per-capita car ownership (CAGR)
+carspcmax,Highest number of carspc per LSOA
+dealer,=1 if car dealer likely (>1 carspcmax)
+taglac,tag(lac2019)
+London,=1 if London borough
+LIB,London inner borough
+LOB,London outer borough
+ltn_time,Number of years LSOA in LTN scheme (any fraction of LSOA)
+carsln,ln Cars
+pop18plusln,ln 
+arealn,ln Area Sq Km
+propmpln,ln Median price paid for residential property (pounds)
